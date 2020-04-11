@@ -17,7 +17,7 @@ The company, Disaster Reporting Networks, is requesting data visualization with 
 - HTML/CSS
 
 ## Website Product
-img
+<img width=“500” alt=“” src="https://github.com/estherhk/Mapping_Earthquakes/blob/master/html_img.png">
 
 ## Interactive Features
 ### 1. Pop-Ups
