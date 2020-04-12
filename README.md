@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
 ## Project Overview
-The company, Disaster Reporting Networks, is requesting data visualization with interactive feautres on earthquakes all around the world.  GeoJSON data is retrieved from the U.S. Geological survey website.  
+The company, Disaster Reporting Networks, is requesting data visualization with interactive features on earthquakes all around the world.  GeoJSON data is retrieved from the U.S. Geological survey website.  
 
 ## Resources
 1. Data Source:
